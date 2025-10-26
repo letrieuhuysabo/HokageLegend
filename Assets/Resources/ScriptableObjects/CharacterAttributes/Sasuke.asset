@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37408ac425df550468ab8c1c97772e42, type: 3}
+  m_Name: Sasuke
+  m_EditorClassIdentifier: 
+  moveSpeed: 6
+  jumpForce: 1
+  cd1: 0
+  cd2: 0
+  cd3: 0
+  cd4: 0
+  startDamage: 10
+  startHp: 100
+  startMp: 100
+  skill1_icon: {fileID: 21300000, guid: 3925691c2a021aa429c1dc89712a1253, type: 3}
+  skill2_icon: {fileID: -7027294045325783470, guid: ce2d90f59e3eb8849840e57227915fc2, type: 3}
+  skill3_icon: {fileID: 7435166800455951947, guid: 3df50919660737547b54b987a8b6aa53, type: 3}
+  skill4_icon: {fileID: -8483331728445939319, guid: 70a25582547f36b49bf548914746b5aa, type: 3}
+  skill1_name: "X\xE0 ki\u1EBFm"
+  skill2_name: Chidori
+  skill3_name: "\u0110\u1EA1i h\u1ECFa c\u1EA7u"
+  skill4_name: "L\xF4i \u0111i\u1EC7n b\xF9ng n\u1ED5"
