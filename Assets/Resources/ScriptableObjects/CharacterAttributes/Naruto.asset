@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37408ac425df550468ab8c1c97772e42, type: 3}
+  m_Name: Naruto
+  m_EditorClassIdentifier: 
+  moveSpeed: 6
+  jumpForce: 1
+  cd1: 0
+  cd2: 0
+  cd3: 0
+  cd4: 0
+  startDamage: 10
+  startHp: 100
+  startMp: 100
+  skill1_icon: {fileID: 21300000, guid: aeb31def086466745b570d082197ee1f, type: 3}
+  skill2_icon: {fileID: -2727645625170779063, guid: 92af05df478212148bc5295334853f4d, type: 3}
+  skill3_icon: {fileID: 4396848370483568825, guid: 4ca0c0f05cca7814abeb7119e907d5e1, type: 3}
+  skill4_icon: {fileID: -6353891535145459338, guid: bc403314f7d5ecc4cb06ad56424ef822, type: 3}
+  skill1_name: "N\u1EAFm \u0111\u1EA5m Hokage"
+  skill2_name: Rasengan
+  skill3_name: "Chakra C\u1EEDu V\u0129"
+  skill4_name: "Boom v\u0129 th\xFA"

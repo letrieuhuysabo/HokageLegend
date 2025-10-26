@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c968e3afbe866bf43be14435b1dcfdfd, type: 3}
+  m_Name: Sasuke
+  m_EditorClassIdentifier: 
+  root: {fileID: 5348513606964482794, guid: 8f88ec6b0d7bb3a4b8da7611d65360e8, type: 3}
+  avatar: {fileID: -575960211, guid: f834586b70c66944dafe23674987c4f7, type: 3}
